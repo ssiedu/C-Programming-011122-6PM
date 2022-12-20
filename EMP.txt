@@ -1,0 +1,6 @@
+Id=102
+Name = sita
+salary=89000.00
+Id=101
+Name = ram
+salary=78000.00
